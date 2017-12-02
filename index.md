@@ -4,3 +4,4 @@
 2. INTELLIVISION
 3. SEGA SG-1000
 4. Nintendo Entertainment System
+5. SEGA Genesis
